@@ -7,7 +7,7 @@ fragment-project
 依赖：
 --------
 * ActionBarSherlock: https://github.com/JakeWharton/ActionBarSherlock
-**注意**：ActionBarSherlock主要用到ActionsBar功能，libs中的android-support-v4.jar要更新到最新的r11版本。此本版增加了Fragment的嵌套功能。
+* **注意**：ActionBarSherlock主要用到ActionsBar功能，libs中的android-support-v4.jar要更新到最新的r11版本。此本版增加了Fragment的嵌套功能。
 
 结构：
 --------
