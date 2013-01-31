@@ -14,10 +14,10 @@ fragment-project
 **FragmentActivity**
 * TabHost
   * FragmentA
-    * ViewPager
-      * FragmentA1
-      * FragmentA2
-      * FragmentA*
+     * ViewPager
+         * FragmentA1
+         * FragmentA2
+         * FragmentA*
   * FragmentB
 
 效果图：
