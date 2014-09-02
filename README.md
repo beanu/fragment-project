@@ -1,5 +1,7 @@
 fragment-project
 ================
+暂停维护，官方已经加入了类似的功能。参考[android.support.v4.app.FragmentTabHost](http://developer.android.com/reference/android/support/v4/app/FragmentTabHost.html)
+
 基于TabHost+FragmentActivity的框架结构。带有ActionsBar，并且是Fragment嵌套结构。
 
 问题：http://stackoverflow.com/questions/13379194/how-to-add-a-fragment-inside-a-viewpager-using-nested-fragment-android-4-2
